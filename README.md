@@ -16,10 +16,11 @@ This is my personal GitHub portfolio, where I showcase my skills, projects, and 
   Actively participate in student organizations during the school period
 - 🛠️ Skills: HTML, CSS, JavaScript, Python
 
-## Projects
+## Records of TIS courses
 - [Assignment 1](Link) - Brief description of the project.
 - [Assignment 2](Link) - Brief description of the project.
 - [Assignment 3](Link) - Brief description of the project.
+- [Assignment 4](Link) - Brief description of the project.
 
 ## Get in Touch
 - 🌐 [Personal Website or Blog](Link)

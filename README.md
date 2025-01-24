@@ -4,15 +4,22 @@
 This is my personal GitHub portfolio, where I showcase my skills, projects, and learning journey.
 
 ## About Me
-- 🎓 Education: Undergraduate student at Qiongtai Normal University in Hainan, China
-One year of exchange experience at Universiti Teknasai Malaysia.
-- 💼 Work Experience: 
-- 🛠️ Skills: HTML, CSS, JavaScript, Python, [Add More Relevant Skills]
+- 🎓 Education:
+- Undergraduate student at Qiongtai Normal University in Hainan, China
+
+  One year of exchange experience at Universiti Teknasai Malaysia.
+- 💼 Recommended ：
+- During his time at the school, he won a scholarship at the university level
+
+  Actively participate in volunteer service and receive a provincial certificate
+
+  Actively participate in student organizations during the school period
+- 🛠️ Skills: HTML, CSS, JavaScript, Python
 
 ## Projects
-- [Project 1 Name](Link) - Brief description of the project.
-- [Project 2 Name](Link) - Brief description of the project.
-- [Project 3 Name](Link) - Brief description of the project.
+- [Assignment 1](Link) - Brief description of the project.
+- [Assignment 2](Link) - Brief description of the project.
+- [Assignment 3](Link) - Brief description of the project.
 
 ## Get in Touch
 - 🌐 [Personal Website or Blog](Link)
